@@ -1,0 +1,55 @@
+.custom-product{
+    background-color: #fff;
+    margin: 0px -5px 0px -18px;
+    margin-bottom: 15px;
+}
+.custom-single-product{
+    padding: 15px 15px 30px 15px;
+    border-bottom: 1px solid #f0f0f0;
+}
+.custom-title{
+    font-weight: 500;
+    font-size: 18px;
+    display: block;
+    cursor: pointer;
+}
+.custom-list::before{
+    content: "\2022";
+    color: #c2c2c2;
+    padding-right: 8px;
+    display: table-cell;
+}
+.custom-list{
+    display: table-row;
+    padding-right: 8px;
+    list-style: none;
+}
+.custom-ul{
+    margin-top: 5px;
+    color: #212121;
+    line-height: 22px;
+    display: table;
+}
+.custom-rating{
+    line-height: normal;
+    display: inline-block;
+    color: #fff;
+    padding: 2px 4px 2px 6px;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 12px;
+    vertical-align: middle;
+    background-color: #388e3c;
+}
+.custom-star{
+    margin: -2px 0 0 2px;
+    height: 10px;
+}
+.custom-price{
+    font-size: 25px;
+    display: block;
+    font-weight: 500;
+}
+.custom-exchange{
+    font-weight: 500;
+}

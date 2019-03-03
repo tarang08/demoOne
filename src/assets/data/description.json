@@ -1,0 +1,155 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "title": "Redmi Y2 (Black 32 GB)",
+            "rating": 4.5,
+            "value": [
+                {
+                    "name": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB"
+                },
+                {
+                    "name": "15.21 cm (5.99 inch) HD+ Display"
+                },
+                {
+                    "name": "12MP + 5MP | 16MP Front Camera"
+                },
+                {
+                    "name": "3080 mAh Li Polymer Battery"
+                },
+                {
+                    "name": "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+                }
+            ],
+            "price": "8,999",
+            "img": "assets/img/mi-redmi-y2.jpeg",
+            "exchange": "8,950",
+            "emi": "299"
+        },
+        {
+            "title": "Redmi Note 6 pro (Black 64 GB)",
+            "rating": 4.5,
+            "value": [
+                {
+                    "name": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB"
+                },
+                {
+                    "name": "15.9 cm (6.26 inch) FHD+ Display"
+                },
+                {
+                    "name": "12MP + 5MP | 20MP + 2MP Dual Front Camera"
+                },
+                {
+                    "name": "4000 mAh Li-polymer Battery"
+                },
+                {
+                    "name": "Qualcomm Snapdragon 636 Processor"
+                }
+            ],
+            "price": "13,999",
+            "img": "assets/img/mi-redmi-e7t.jpeg",
+            "exchange": "13,750",
+            "emi": "465"
+        },
+        {
+            "title": "Redmi Y2 (Black 32 GB)",
+            "rating": 4.5,
+            "value": [
+                {
+                    "name": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB"
+                },
+                {
+                    "name": "15.21 cm (5.99 inch) HD+ Display"
+                },
+                {
+                    "name": "12MP + 5MP | 16MP Front Camera"
+                },
+                {
+                    "name": "3080 mAh Li Polymer Battery"
+                },
+                {
+                    "name": "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+                }
+            ],
+            "price": "8,999",
+            "img": "assets/img/mi-redmi-y2.jpeg",
+            "exchange": "8,950",
+            "emi": "299"
+        },
+        {
+            "title": "Redmi Note 6 pro (Black 64 GB)",
+            "rating": 4.5,
+            "value": [
+                {
+                    "name": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB"
+                },
+                {
+                    "name": "15.9 cm (6.26 inch) FHD+ Display"
+                },
+                {
+                    "name": "12MP + 5MP | 20MP + 2MP Dual Front Camera"
+                },
+                {
+                    "name": "4000 mAh Li-polymer Battery"
+                },
+                {
+                    "name": "Qualcomm Snapdragon 636 Processor"
+                }
+            ],
+            "price": "13,999",
+            "img": "assets/img/mi-redmi-e7t.jpeg",
+            "exchange": "13,750",
+            "emi": "465"
+        },
+        {
+            "title": "Redmi Y2 (Black 32 GB)",
+            "rating": 4.5,
+            "value": [
+                {
+                    "name": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB"
+                },
+                {
+                    "name": "15.21 cm (5.99 inch) HD+ Display"
+                },
+                {
+                    "name": "12MP + 5MP | 16MP Front Camera"
+                },
+                {
+                    "name": "3080 mAh Li Polymer Battery"
+                },
+                {
+                    "name": "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+                }
+            ],
+            "price": "8,999",
+            "img": "assets/img/mi-redmi-y2.jpeg",
+            "exchange": "8,950",
+            "emi": "299"
+        },
+        {
+            "title": "Redmi Note 6 pro (Black 64 GB)",
+            "rating": 4.5,
+            "value": [
+                {
+                    "name": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB"
+                },
+                {
+                    "name": "15.9 cm (6.26 inch) FHD+ Display"
+                },
+                {
+                    "name": "12MP + 5MP | 20MP + 2MP Dual Front Camera"
+                },
+                {
+                    "name": "4000 mAh Li-polymer Battery"
+                },
+                {
+                    "name": "Qualcomm Snapdragon 636 Processor"
+                }
+            ],
+            "price": "13,999",
+            "img": "assets/img/mi-redmi-e7t.jpeg",
+            "exchange": "13,750",
+            "emi": "465"
+        }
+    ]
+}

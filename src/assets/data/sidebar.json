@@ -1,0 +1,76 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "title": "RAM",
+            "value": [
+                {
+                    "name": "6 GB & Above"
+                },
+                {
+                    "name": "5 GB"
+                },
+                {
+                    "name": "4 GB"
+                },
+                {
+                    "name": "3 GB"
+                },
+                {
+                    "name": "2 GB"
+                }
+            ]
+        },
+        {
+            "title": "BRAND",
+            "value": [
+                {
+                    "name": "MI"
+                },
+                {
+                    "name": "Samsung"
+                },
+                {
+                    "name": "Nokia"
+                }
+            ]
+        },
+        {
+            "title": "CUSTOMER RATINGS",
+            "value": [
+                {
+                    "name": "4 star & Above"
+                },
+                {
+                    "name": "3 star"
+                },
+                {
+                    "name": "2 star"
+                },
+                {
+                    "name": "1 star"
+                }
+            ]
+        },
+        {
+            "title": "INTERNAL STORAGE",
+            "value": [
+                {
+                    "name": "128 - 255.9 GB"
+                },
+                {
+                    "name": "64 - 127.9 GB"
+                },
+                {
+                    "name": "32 - 63.9 GB"
+                },
+                {
+                    "name": "16 - 31.9 GB"
+                },
+                {
+                    "name": "1 - 15.9 GB"
+                }
+            ]
+        }
+    ]
+}

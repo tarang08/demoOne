@@ -1,0 +1,24 @@
+<div class="row custom-product">
+  <div class="col col-sm-12 col-md-12 col-lg-12" *ngFor="let data of descriptionData">
+    <div class="row custom-single-product">
+      <div class="col col-sm-3 col-md-3 col-lg-3">
+        <img src="{{data.img}}" />
+      </div>
+      <div class="col col-sm-6 col-md-6 col-lg-6">
+        <div class="custom-title">{{data.title}}</div>
+        <div class="custom-rating">{{data.rating}}<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="custom-star"></div>
+        <div class="">
+          <ul class="custom-ul pl-0">
+            <li class="custom-list" *ngFor="let listData of data['value']">{{listData.name}}</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col col-sm-3 col-sm-3 col-lg-3">
+        <div class="custom-price">&#2352; {{data.price}}</div>
+        <div class="custom-exchange">up to &#2352;{{data.exchange}} off on Exchange</div>
+        <div>EMI starting from <span class="custom-exchange">{{data.emi}}</span></div>
+      </div>
+      <mat-checkbox>Add to Compare</mat-checkbox>
+    </div>
+  </div>
+</div>

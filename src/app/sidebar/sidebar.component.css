@@ -1,0 +1,19 @@
+.custom-sidebar-parent{
+    background-color: #fff;
+    box-shadow: 0 1px 8px 0 rgba(0,0,0,.06);
+    position: relative;
+}
+.custom-filter{
+    padding: 16px;
+    border-bottom: 1px solid #f0f0f0;
+    font-weight: 500;
+}
+::ng-deep .mat-checkbox .mat-checkbox-frame {
+    border-color: darkcyan;
+  }
+  ::ng-deep .mat-checkbox-checked .mat-checkbox-background {
+    background-color: darkcyan !important;
+  }
+  .custom-expansion{
+    border-bottom: 1px solid #f0f0f0;
+  }

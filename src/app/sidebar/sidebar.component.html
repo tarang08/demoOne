@@ -1,0 +1,17 @@
+<div class="row">
+  <div class="col col-sm-12 col-md-12 col-lg-12">
+    <div class="custom-sidebar-parent">
+      <div class="custom-filter"><span>Filters</span></div>
+      <mat-expansion-panel *ngFor="let data of sideData" class="custom-expansion">
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+            {{data.title}}
+          </mat-panel-title>
+        </mat-expansion-panel-header>
+        <div *ngFor="let checkBox of data['value']">
+            <mat-checkbox  class="example-margin" >{{checkBox.name}}</mat-checkbox>
+        </div>
+      </mat-expansion-panel> 
+    </div>
+  </div>
+</div>
